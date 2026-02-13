@@ -51,7 +51,7 @@ Proje devresi aşağıdaki pin konfigürasyonuna göre kurulmuştur:
 ## 👥 Yazarlar
 
 * **Hüseyin YILMAZ** - [GitHub Profilim](https://github.com/huseyin-yilmaz-astro)
-* **Emre** - [GitHub Profilim](https://github.com/EmreAliciTr)
+* **Emre Alıcı** - [GitHub Profilim](https://github.com/EmreAliciTr)
 
 ---
 *Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.*
