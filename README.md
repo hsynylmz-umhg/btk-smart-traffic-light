@@ -1,4 +1,7 @@
-# 🚦 Akıllı Trafik Lambası (Smart Traffic Light)
+<div align="center">
+  <img src="btk.png" width="100" height="auto" alt="BTK Akademi Logo"/>
+  <h1>🚦 Akıllı Trafik Lambası (Smart Traffic Light)</h1>
+</div>
 
 Bu proje, trafik ışıklarında gereksiz beklemeleri önlemek amacıyla geliştirilmiş, sensör tabanlı bir otonom trafik lambası prototipidir. **Kayseri Üniversitesi** ve **BTK Akademi** çalışmaları kapsamında **Hüseyin YILMAZ** ve **Emre** tarafından geliştirilmiştir.
 
@@ -36,7 +39,7 @@ Proje devresi aşağıdaki pin konfigürasyonuna göre kurulmuştur:
 * **SARI_LED:** 5
 * **YEŞİL_LED:** 4
 
-*(Buraya proje devresinin fotoğrafını veya Tinkercad ekran görüntüsünü "Upload files" kısmından yükleyerek ekleyebilirsiniz)*
+![Devre Tasarımı](devre-tasarimi.png)
 
 ## 🚀 Kurulum ve Kullanım
 
