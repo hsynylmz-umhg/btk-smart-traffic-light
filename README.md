@@ -3,7 +3,7 @@
   <h1>🚦 Akıllı Trafik Lambası (Smart Traffic Light)</h1>
 </div>
 
-Bu proje, trafik ışıklarında gereksiz beklemeleri önlemek amacıyla geliştirilmiş, sensör tabanlı bir otonom trafik lambası prototipidir. **Kayseri Üniversitesi** ve **BTK Akademi** çalışmaları kapsamında **Hüseyin YILMAZ** ve **Emre** tarafından geliştirilmiştir.
+Bu proje, trafik ışıklarında gereksiz beklemeleri önlemek amacıyla geliştirilmiş, sensör tabanlı bir otonom trafik lambası prototipidir. **Kayseri Üniversitesi** ve **BTK Akademi** çalışmaları kapsamında **Hüseyin YILMAZ** ve **Emre Alıcı** tarafından geliştirilmiştir.
 
 ## 📌 Proje Hakkında
 
@@ -51,7 +51,7 @@ Proje devresi aşağıdaki pin konfigürasyonuna göre kurulmuştur:
 ## 👥 Yazarlar
 
 * **Hüseyin YILMAZ** - [GitHub Profilim](https://github.com/huseyin-yilmaz-astro)
-* **Emre** - [GitHub Profilim](VarsaLink)
+* **Emre** - [GitHub Profilim](https://github.com/EmreAliciTr)
 
 ---
 *Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.*
